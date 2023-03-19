@@ -1,4 +1,4 @@
-# Projet_Big_Data
+# Projet_Big_Data_Groupe_6
 
 ## 1 Contributeurs
 
